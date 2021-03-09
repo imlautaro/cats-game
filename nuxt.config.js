@@ -16,4 +16,7 @@ export default {
 	generate: {
 		interval: 2000,
 	},
+	router: {
+		base: '/cats-game/'
+	}
 }

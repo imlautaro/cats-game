@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fcats-game\u002F_nuxt\u002Fstatic\u002F1615305582",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{app:{basePath:"\u002Fcats-game\u002F",assetsPath:"\u002Fcats-game\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{}}}(null));
